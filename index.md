@@ -12,3 +12,13 @@ This is an index file
 
 {% include 03-links.md %}
 
+<br>
+
+* Hola
+* Primera
+* Lista
+* :smile:
+
+<br>
+
+{% include 05-emphasis.md %}
