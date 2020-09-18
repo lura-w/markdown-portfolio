@@ -14,10 +14,10 @@ layout: default
 
 <br>
 
-1. Hola
-2. Primera
-3. Lista
-4. :smile:
+* Hola
+* Primera
+* Lista
+* :smile:
 
 <br>
 
