@@ -14,7 +14,10 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+1. Hola
+2. Primera
+3. Lista
+4. :smile:
 
 <br>
 
